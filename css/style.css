@@ -1,0 +1,9 @@
+body {
+    background-color: #42b894;
+  }
+
+div.container{text-align: center;}
+ul.myul {display:inline-block ;
+text-align: left;}
+ol.myol {display: inline-block;
+text-align: left;}
